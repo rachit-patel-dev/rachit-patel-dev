@@ -5,6 +5,7 @@ Experienced Web Developer & Team Lead
 -------------------------------------
 
 👨‍💻 Turning complex problems into elegant, user-friendly software solutions is my jam! 🚀 From leading teams to building scalable apps with Python, Django, React, and AWS, I'm all about collaboration, innovation, and creating tech that truly makes an impact. Let’s build something awesome together! ✨
+<img align="right" alt="Coding" width="350" src=https://r2.erweima.ai/imgcompressed/img/compressed_ebfa79274782c7e55c16cc17b58831e5.webp />
 
 * 🌍  I'm based in Ahmedabad, India
 * ✉️  You can contact me at [rachitpatel014@gmail.com](mailto:rachitpatel014@gmail.com)
