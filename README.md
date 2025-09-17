@@ -9,7 +9,6 @@ Experienced Web Developer & Team Lead
 <img align="right" alt="Coding" width="350" src=https://r2.erweima.ai/imgcompressed/img/compressed_ebfa79274782c7e55c16cc17b58831e5.webp />
 
 * 🌍  I'm based in Ahmedabad, India
-* ✉️  You can contact me at [rachitpatel014@gmail.com](mailto:rachitpatel014@gmail.com)
 * 🧠  I'm learning how to lead and mentor my co-workers
 * 🤝  I'm open to collaborating on interesting and complex projects
 * ⚡  I write code so clean, even my bugs come with documentation 🐛📄
@@ -31,7 +30,3 @@ Experienced Web Developer & Team Lead
 <a href="http://www.github.com/rachit-patel-dev"><img src="https://github-readme-stats.vercel.app/api?username=rachit-patel-dev&show_icons=true&hide=issues,contribs&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="rachit-patel-dev's GitHub stats" /></a>
 
 <a href="https://github.com/rachit-patel-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-patel-dev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<h4 align="left">Visitor's Count :eyes:</h4>
-
-<p align="left"><img src="https://profile-counter.glitch.me/{rachit-patel-dev}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
