@@ -1,32 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rachit Patel.
-====================================================================================================================================
+# Hi, I'm Rachit Patel 👋
 
-Experienced Web Developer & Team Lead
--------------------------------------
+### Senior Full-Stack Engineer & Technical Project Manager
 
-👨‍💻 Turning complex problems into elegant, user-friendly software solutions is my jam! 🚀 From leading teams to building scalable apps with Python, Django, React, and AWS, I'm all about collaboration, innovation, and creating tech that truly makes an impact. Let’s build something awesome together! ✨
+## About Me
+- With over 6 years in software development, I began as a backend specialist crafting robust APIs and systems in Python and Django. Evolving into full-stack, I mastered React for seamless user experiences while leading teams to deliver high-impact projects.
+- Today, as a Senior Technical Project Manager, I bridge engineering, product strategy, and client needs, driving efficient deliveries in dynamic environments.
+- I thrive on scaling teams, optimizing architectures, and turning complex challenges into tangible business value. 🛠️
 
-<img align="right" alt="Coding" width="350" src=https://r2.erweima.ai/imgcompressed/img/compressed_ebfa79274782c7e55c16cc17b58831e5.webp />
+## Tech Stack
+<div>
 
-* 🌍  I'm based in Ahmedabad, India
-* 🧠  I'm learning how to lead and mentor my co-workers
-* 🤝  I'm open to collaborating on interesting and complex projects
-* ⚡  I write code so clean, even my bugs come with documentation 🐛📄
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Skills
+**Backend**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000?style=flat&logo=api&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
 
-### Socials
+**Cloud & Tools**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<p align="left"> <a href="https://www.github.com/rachit-patel-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rachit-patel-wfh8000/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+**Payments & Comms**  
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 
-### Badges
+**Project Management / Others**  
+![Agile](https://img.shields.io/badge/Agile-000?style=flat&logo=agile&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF9900?style=flat&logo=artificial-intelligence&logoColor=white)
 
-<b>My GitHub Stats</b>
+</div>
 
-<a href="http://www.github.com/rachit-patel-dev"><img src="https://github-readme-stats.vercel.app/api?username=rachit-patel-dev&show_icons=true&hide=issues,contribs&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="rachit-patel-dev's GitHub stats" /></a>
+## Experience Highlights
+- **Backend Developer (Years 1-3)**: Built scalable APIs with Python, Django, and databases like PostgreSQL/MySQL. Integrated services like AWS, Stripe, and Twilio for real-world applications. 📊
+- **Full-Stack Engineer (Years 3-4)**: Expanded to frontend with React, Redux, and Tailwind, delivering end-to-end solutions while mentoring juniors and conducting code reviews. 👨‍💻
+- **Team Leader (Years 4-5)**: Led cross-functional teams on web/mobile projects, handling client comms and ensuring on-time deliveries. ⚡
+- **Technical Project Manager (Years 5-6+)**: Orchestrating complex initiatives in AI-enhanced systems, focusing on efficiency, scalability, and business alignment. 📈
 
-<a href="https://github.com/rachit-patel-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachit-patel-dev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Domains & Impact
+I've led transformative projects across diverse industries, delivering measurable value like streamlined operations and enhanced user engagement:
+- 🏗️ **Construction**: Optimized workflow tools reducing project delays by 30%.
+- 🎉 **Event Management**: Built platforms handling thousands of attendees seamlessly.
+- 🏥 **Healthcare**: Developed secure apps improving patient data management.
+- 🎭 **Entertainment**: Created interactive experiences boosting user retention.
+- 💪 **Fitness**: Integrated AI for personalized training recommendations.
+- 🤖 **AI**: Pioneered integrations for smarter, data-driven decisions.
+
+## Currently Working On
+- Scaling engineering teams with modern architectures and AI tools.
+- Exploring open-source contributions in Python/React ecosystems.
+- Mentoring emerging leaders in tech project management.
+- Passionate about sustainable tech practices and innovative problem-solving.
+
+## Let's Connect
+<div>
+  <a href="https://www.linkedin.com/in/rachit-patel-tpm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patelrachit5851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+#### Thanks for visiting, let's build something impactful together! 🚀
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=rachit-patel-dev&style=flat-square&color=green" alt="Profile Views Again" />
+</div>
