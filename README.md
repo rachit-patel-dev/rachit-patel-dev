@@ -53,8 +53,9 @@ I've led transformative projects across diverse industries, delivering measurabl
 
 ## Let's Connect
 <div>
-  <a href="https://www.linkedin.com/in/rachit-patel-tpm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rachit-patel-tpm/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:patelrachit5851@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rachit-patel-dev.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 #### Thanks for visiting, let's build something impactful together! 🚀
